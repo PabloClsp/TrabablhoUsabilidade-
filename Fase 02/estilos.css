@@ -1,0 +1,16 @@
+body{
+background-color:#f08a01;
+font-family: Arial, Helvetica, sans-serif;
+color:#0675af
+}
+
+h1{
+    color: #0675af;
+}
+
+.perfil{
+    background-color: white;
+    border: 1px solid #0675af;
+    width: 80%;
+    margin:0%
+}
